@@ -28,8 +28,8 @@ Estou construindo meu portfólio em Python e futuramente estudarei **Ruby**.
 ## 🎓 Formação
 
 - 🎓 **Análise e Desenvolvimento de Sistemas – Senac CE** (2025–2027)  
-- 🎓 **Provimento de Serviços Computacionais – Instituto iRede (MCTI/Softex)** (2025–2026)  
-- 🎓 **Infraestrutura em TI – UNIASSELVI** (2025–2026)  
+- 🎓 **Provimento de Serviços Computacionais – Instituto iRede (MCTI/Softex)**
+- 🎓 **Infraestrutura em TI – UNIASSELVI**  
 - 🎓 Ensino médio — Colégio Liceu (2018)
 
 ---
@@ -39,7 +39,9 @@ Estou construindo meu portfólio em Python e futuramente estudarei **Ruby**.
 ### 💻 Linguagens
 - Python  
 - SQL (MySQL)
-
+- Java
+- C
+- C++
 ### 🧰 Ferramentas & Tecnologias
 - Git / GitHub  
 - VS Code  
