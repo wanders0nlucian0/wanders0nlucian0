@@ -1,7 +1,3 @@
-<!-- BANNER MATRIX -->
-<p align="center">
-  <img src="https://i.imgur.com/2M0YkXK.gif" width="100%"/>
-</p>
 
 <h1 align="center">
   <span style="color:#00ff88;">W A N D E R S O N&nbsp;•&nbsp;L U C I A N O</span>
