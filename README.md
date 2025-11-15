@@ -1,21 +1,30 @@
-<!-- BANNER TEMA TERMINAL VERDE -->
+<!-- BANNER MATRIX -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,100:00ff88&height=250&section=header&text=Wanderson%20Luciano&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://i.imgur.com/2M0YkXK.gif" width="100%"/>
+</p>
+
+<h1 align="center">
+  <span style="color:#00ff88;">W A N D E R S O N&nbsp;•&nbsp;L U C I A N O</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Infraestrutura+%26+Redes;Cyber+Security+Enthusiast;Python+%2B+MySQL;Always+Learning+%26+Building" />
 </p>
 
 ---
 
-<!-- BADGES ESTILO TECH / INFRA -->
+# 🟢 **Badges — Matrix Mode**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visual-studio-code&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff88"/>
 </p>
+
 
 ---
 
