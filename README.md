@@ -21,7 +21,7 @@ Atualmente trabalho como **Estagiário de Suporte de T.I**, atuando com:
 - Suporte via helpdesk e gestão de tarefas com Bitrix24
 
 💡 No desenvolvimento, meu foco principal é **Python + MySQL + Back-end**.  
-Estou construindo meu portfólio em Python e futuramente estudarei **Ruby**.
+Estou construindo meu portfólio em Python, Java, C/C++ e futuramente estudarei **Flutter**.
 
 ---
 
