@@ -9,8 +9,6 @@
 
 ---
 
-# 🟢 **Badges — Matrix Mode**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88"/>
