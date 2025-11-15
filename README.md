@@ -113,7 +113,7 @@ https://github.com/wanders0nlucian0/Sistema-de-Gest-o-para-Pet-Shop-V2.0-em-Pyth
 
 ---
 
-# 📊 Estatísticas (Estilo Terminal / Verde)
+# 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanders0nlucian0&show_icons=true&theme=gruvbox&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0c0f0a"/>
