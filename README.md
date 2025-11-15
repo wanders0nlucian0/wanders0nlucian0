@@ -1,87 +1,93 @@
-<h1 align="center">👋 Olá, eu sou o Wanderson Luciano</h1>
-
+<!-- BANNER -->
 <p align="center">
-  Estagiário de Suporte de T.I • Python • Back-end • Infraestrutura • Rede • Cyber Segurança
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:512bd4&height=250&section=header&text=Wanderson%20Luciano&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
-Sou apaixonado por tecnologia e busco evoluir nas áreas de **desenvolvimento back-end**, **infraestrutura**, **segurança da informação** e **suporte técnico**.
+---
 
-Atualmente trabalho como **Estagiário de Suporte de T.I**, atuando com:
+# 👨‍💻 Sobre mim
 
-- Suporte à infraestrutura de rede (cabeada e Wi-Fi)
+Sou um desenvolvedor em evolução, apaixonado por tecnologia, back-end e segurança.  
+Trabalho atualmente como **Estagiário de Suporte de T.I**, atuando com:
+
+- Infraestrutura de redes (cabeada/Wi-Fi)
 - Manutenção de hardware e periféricos
 - Telefonia VoIP
-- Suporte a sistemas ERP e softwares internos
-- Testes manuais e automatizados de sistemas
-- Monitoramento de performance e comportamento de aplicações
-- Suporte via helpdesk e gestão de tarefas com Bitrix24
+- Suporte ao ERP
+- Testes manuais e automatizados
+- Monitoramento e análise de desempenho
+- Helpdesk e gerenciamento com Bitrix24
 
-💡 No desenvolvimento, meu foco principal é **Python + MySQL + Back-end**.  
-Estou construindo meu portfólio em Python, Java, C/C++ e futuramente estudarei **Flutter**.
-
----
-
-## 🎓 Formação
-
-- 🎓 **Análise e Desenvolvimento de Sistemas – Senac CE** (2025–2027)  
-- 🎓 **Provimento de Serviços Computacionais – Instituto iRede (MCTI/Softex)**
-- 🎓 **Infraestrutura em TI – UNIASSELVI**  
-- 🎓 Ensino médio — Colégio Liceu (2018)
+Busco me aprimorar na área de **Python + MySQL + Back-end**, e futuramente estudarei **Ruby**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🚀 Tecnologias e Ferramentas
 
-### 💻 Linguagens
+### 🐍 Linguagens
 - Python  
 - SQL (MySQL)
-- Java
-- C
-- C++
-### 🧰 Ferramentas & Tecnologias
-- Git / GitHub  
+
+### 🛠️ Ferramentas
+- Git & GitHub  
 - VS Code  
 - MySQL Workbench  
 - PowerShell  
-- Redes (infra, Wi-Fi, cabeada)  
-- Telefonia VoIP  
-- ERP  
-- Helpdesk / Suporte técnico  
+- Redes e Infraestrutura  
+- VoIP  
+- ERP / Helpdesk  
 
-### 🔐 Áreas de interesse
+### 🔐 Áreas de Interesse
 - Back-end  
 - Infraestrutura  
 - Cyber Segurança  
-- DevOps / Automação  
 - Testes e QA  
+- DevOps / Automação  
 
 ---
 
-## 💼 Experiência
+# 💼 Experiência Profissional
 
-### 💼 Estagiário de Suporte de T.I — *Diamantes Lingerie*  
-📅 Novembro de 2025 – Presente  
-📍 Fortaleza, Ceará  
+### **Estagiário de Suporte de T.I — Diamantes Lingerie**  
+📅 *Nov/2025 – Atual*  
+📍 Fortaleza – CE  
 
-Atividades:  
-- Suporte à infraestrutura (rede cabeada/Wi-Fi)  
-- Manutenção de equipamentos e periféricos  
+**Responsabilidades:**
+- Suporte à infraestrutura e redes  
+- Manutenção de computadores  
 - Telefonia VoIP  
-- Suporte ao sistema ERP  
-- Testes manuais e automatizados de sistemas  
-- Melhoria de performance e análise de recursos  
-- Gestão de tarefas e comunicação interna via Bitrix24  
+- Suporte ao ERP  
+- Testes e validação de sistemas  
+- Monitoramento de performance  
+- Suporte via Helpdesk e Bitrix24  
 
 ---
 
-## 📌 Projetos em Destaque
+# 📚 Formação
+
+- **ADS — Análise e Desenvolvimento de Sistemas** (Senac CE — 2025/2027)  
+- **Provimento de Serviços Computacionais — iRede**  
+- **Infraestrutura em TI — UNIASSELVI**  
+- Ensino Médio — Colégio Liceu
+
+---
+
+# 🧩 Projetos em Destaque
 
 ### 🐾 Sistema de Gestão para Pet Shop (Python + MySQL)
-Sistema completo em Python CLI com banco MySQL, incluindo:  
+Sistema CLI completo com:
+
 ✔ Clientes  
 ✔ Pets  
 ✔ Produtos  
@@ -90,12 +96,12 @@ Sistema completo em Python CLI com banco MySQL, incluindo:
 ✔ Vendas  
 ✔ Usuários  
 
-🔗 **Acesse o projeto:**  
+🔗 Projeto:  
 https://github.com/wanders0nlucian0/Sistema-de-Gest-o-para-Pet-Shop-V2.0-em-Python-CLI-com-MySQL
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas (Tema Tokyo Night)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanders0nlucian0&show_icons=true&theme=tokyonight"/>
@@ -104,12 +110,14 @@ https://github.com/wanders0nlucian0/Sistema-de-Gest-o-para-Pet-Shop-V2.0-em-Pyth
 
 ---
 
-## 📞 Contato
+# 📞 Contato
 
-📧 **E-mail:** wandersonluciano@outlook.com.br 
-📱 **Telefone:** (85) 93300-6107  
+📧 **Email:** wnads2023@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/wandersonluciano  
+📱 **Telefone:** (85) 93300-6107  
 
 ---
 
-<p align="center">✨ Sempre aprendendo, sempre evoluindo! ✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512bd4,100:0a0f24&height=120&section=footer"/>
+</p>
