@@ -1,113 +1,132 @@
-<!-- FUNDO MATRIX CAINDO -->
-<div align="center" style="background-image: url('https://i.imgur.com/r9Q0L0G.gif'); background-size: cover; padding: 40px; border-radius: 12px;">
-
-<h1 style="color:#00ff88;">W A N D E R S O N • L U C I A N O</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=480&lines=Back-end+Developer;Python+%2B+MySQL;Infraestrutura+%26+Cyber+Security;Matrix+Mode+Activated" />
-
-</div>
-
----
-
-# 🟩 Tecnologias (Tema Matrix)
-
+<!-- BANNER TEMA TERMINAL VERDE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00ff88"/>
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00ff88"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,100:00ff88&height=250&section=header&text=Wanderson%20Luciano&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 ---
 
-# 👨‍💻 Sobre Mim
-
-scanning profile...
-terminal connected.
-loading user data ████████████████ 100%
-
-Nome: Wanderson Luciano
-Interesses: Back-end, Infra, Segurança, Redes
-Status: Evoluindo como Dev
-Localização: Fortaleza - CE
-
-yaml
-Copiar código
+<!-- BADGES ESTILO TECH / INFRA -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visual-studio-code&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff88"/>
+</p>
 
 ---
 
-# 📟 Terminal Stats (Modo Matrix)
+# 👨‍💻 Sobre mim
 
-<div style="background:#000; padding:20px; border-radius:10px;">
-  
-```bash
-$ whoami
-wanderson
+Sou um desenvolvedor em evolução, apaixonado por **back-end**, **infraestrutura** e **segurança**.  
+Atualmente trabalho como **Estagiário de Suporte de T.I**, atuando com:
 
-$ skills --list
-Python
-MySQL
-Redes
-Monitoramento
-Automações
-Linux
-Java / C / C++
+- Infraestrutura de redes (cabeada/Wi-Fi)
+- Manutenção de hardware e periféricos
+- Telefonia VoIP
+- Suporte ao ERP
+- Testes manuais e automatizados
+- Monitoramento e análise de desempenho
+- Helpdesk e gerenciamento com Bitrix24
 
-$ projects --top
-1. Sistema PetShop 3.0
-2. Monitor de Redes Inteligente
-3. Ferramentas CLI (DevOps Friendly)
-</div>
-🟩 Estatísticas
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=wanders0nlucian0&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=00ff88"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanders0nlucian0&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff88&text_color=00ff88"/> </p>
-📡 Contato
-📧 Email — wandersonluciano@outlook.com.br
-🔗 LinkedIn — https://www.linkedin.com/in/wandersonluciano
-📱 Telefone — (85) 93300-6107
+Busco me aprimorar na área de **Python + MySQL + Back-end**, e futuramente estudarei **Ruby**.
 
-<p align="center"> <img src="https://i.imgur.com/r9Q0L0G.gif" width="100%"/> </p> ```
-🟩 2) Versão com TERMINAL INTERATIVO FALSO (SUPER HACKER)
-Essa versão simula um terminal hacker REAL dentro do README.
-Um dos estilos favoritos de recrutadores.
+---
 
-md
-Copiar código
-<h1 align="center" style="color:#00ff88;">> Terminal Mode Activated</h1>
+# 🚀 Tecnologias e Ferramentas
 
-Initializing system...
-Loading profile...
+### 🐍 Linguagens
 
-ruby
-Copiar código
-wanderson@github:~$ dev-profile --info
+- Python  
+- SQL (MySQL)  
+- Java  
+- C / C++  
 
-[+] Nome: Wanderson Luciano
-[+] Stack: Python, MySQL, Redes, Automação, Segurança
-[+] Função Atual: Estagiário de Suporte de T.I
-[+] Localização: Fortaleza - CE
+### 🛠️ Ferramentas
 
-wanderson@github:~$ skills --show
+- Git & GitHub  
+- VS Code  
+- MySQL Workbench  
+- PowerShell  
+- Redes e Infraestrutura  
+- VoIP  
+- ERP / Helpdesk  
 
-- Python ██████████░░
-- SQL / MySQL █████████░░
-- Infraestrutura ████████░░
-- Redes ████████░░
-- Linux ███████░░░
-- Java / C / C++ ████░░░░░░
+### 🔐 Áreas de Interesse
 
-wanderson@github:~$ projects --list
+- Back-end  
+- Infraestrutura  
+- Cyber Segurança  
+- Testes e QA  
+- DevOps / Automação  
 
-1. Monitor de Redes (Scanner, SNMP, Alertas Telegram)
-2. Sistema de Pet Shop 3.0 (CLI / API / Segurança)
-3. Ferramentas de automação
+---
 
-wanderson@github:~$ learning --now
+# 💼 Experiência Profissional
 
-→ Python avançado  
-→ Segurança e redes  
-→ Automação com scripts  
-→ Banco de dados e SQL  
-→ Estrutura de dados  
+### **Estagiário de Suporte de T.I — Diamantes Lingerie**  
+📅 *Nov/2025 – Atual*  
+📍 Fortaleza – CE  
 
-wanderson@github:~$ exit
+**Responsabilidades:**
+- Suporte à infraestrutura e redes  
+- Manutenção de computadores  
+- Telefonia VoIP  
+- Suporte ao ERP  
+- Testes e validação de sistemas  
+- Monitoramento de performance  
+- Suporte via Helpdesk e Bitrix24  
+
+---
+
+# 📚 Formação
+
+- **ADS — Análise e Desenvolvimento de Sistemas** (Senac CE — 2025/2027)  
+- **Provimento de Serviços Computacionais — iRede**  
+- **Infraestrutura em TI — UNIASSELVI**  
+- Ensino Médio — Colégio Liceu  
+
+---
+
+# 🧩 Projetos em Destaque
+
+### 🐾 Sistema de Gestão para Pet Shop (Python + MySQL)
+
+Sistema CLI completo com:
+
+✔ Clientes  
+✔ Pets  
+✔ Produtos  
+✔ Serviços  
+✔ Agendamentos  
+✔ Vendas  
+✔ Usuários  
+
+🔗 Projeto:  
+https://github.com/wanders0nlucian0/Sistema-de-Gest-o-para-Pet-Shop-V2.0-em-Python-CLI-com-MySQL
+
+---
+
+# 📊 Estatísticas (Estilo Terminal / Verde)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanders0nlucian0&show_icons=true&theme=gruvbox&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&bg_color=0c0f0a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanders0nlucian0&layout=compact&theme=gruvbox&title_color=00ff88&text_color=c9d1d9&bg_color=0c0f0a"/>
+</p>
+
+---
+
+# 📞 Contato
+
+📧 **Email:** wnads2023@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/wandersonluciano  
+📱 **Telefone:** (85) 93300-6107  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:001100&height=120&section=footer"/>
+</p>
