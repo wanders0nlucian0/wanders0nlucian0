@@ -124,7 +124,7 @@ https://github.com/wanders0nlucian0/Sistema-de-Gest-o-para-Pet-Shop-V2.0-em-Pyth
 
 # 📞 Contato
 
-📧 **Email:** wnads2023@gmail.com  
+📧 **Email:** wandersonluciano@outlook.com.br
 🔗 **LinkedIn:** https://www.linkedin.com/in/wandersonluciano  
 📱 **Telefone:** (85) 93300-6107  
 
