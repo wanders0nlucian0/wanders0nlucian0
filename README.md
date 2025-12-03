@@ -35,9 +35,7 @@ Atualmente trabalho como **Estagiário de Suporte de T.I**, atuando com:
 - Monitoramento e análise de desempenho
 - Helpdesk e gerenciamento com Bitrix24
 
-Busco me aprimorar na área de **Python + MySQL + Back-end**, e futuramente estudarei **Ruby**.
 
----
 
 # 🚀 Tecnologias e Ferramentas
 
